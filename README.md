@@ -47,7 +47,7 @@ A speedy and accurate diagnosis of COVID-19 is made possible by effective SARS-C
 4)Perform multiple machine learning models relevant to your hypothesis, justify your model.
 5)Perform important cost functions to justify which model is better. 
 
-The following list describes each of the dataset’s features used by the model: 
+The following list describes each of the dataset’s features used by the model:
 A. Basic information: 
 1. ID (Individual ID)
 2. Sex (male/female). 
